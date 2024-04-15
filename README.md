@@ -7,7 +7,6 @@ open-source software and a member of [Louvain-li-Nux](https://louvainlinux.org).
 #### About me
 
 - 💻 I'm working on [buzzer system](https://github.com/nicojmn/buzzer)
-- 🌱 I'm currently learning how [urllib3](https://github.com/nicojmn/urllib3) works. My aim is to add [MPTCP](https://www.multipath-tcp.org/) to this project.
 - 💬 Ask me anything about my favorite subjects or other as well, I love learning new things !
 - 📫 You can reach me by putting an issue / PR or at nicolas.jeanmenne@student.uclouvain.be
 - 🔍 You can visit my gitlab [here](https://gitlab.com/nicojmn) (mainly for Louvain-li-Nux stuff)
