@@ -14,8 +14,8 @@ open-source software and a member of [Louvain-li-Nux](https://louvainlinux.org).
 #### My GitHub stats:
 
 <a href="#">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=nicojmn&show_icons=true&include_all_commits=true&hide_border=true&&count_private=false" />
+<img align="center" height="180em" src="https://nicojmn-stats.vercel.app/api?username=nicojmn&show_icons=true&include_all_commits=false&hide_border=true&rank_icon=default&show=prs_merged" />
 </a>
 <a href="#">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicojmn&layout=compact&langs_count=6&hide=jupyter%20notebook,tex,makefile">
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicojmn&layout=compact&langs_count=6&hide=jupyter%20notebook,tex,makefile&exclude_repo=github-stats-readme">
 </a>
