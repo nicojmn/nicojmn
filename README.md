@@ -7,7 +7,7 @@ open-source software and a member of [Louvain-li-Nux](https://louvainlinux.org).
 ## About me
 
 - 💻 I'm working on multiple projects at the same time
-- 🌱 I'm currently learning about several cool stuff like devOps / building a homelab, cryptography and go
+- 🌱 I'm currently learning about several cool stuff like devOps / building a [homelab](https://github.com/nicojmn/homelab), cryptography and go
 - 💬 Ask me anything about my favorite subjects or other as well, I love learning new things !
 - 📫 You can reach me by putting an issue / PR or at <nicolas.jeanmenne@student.uclouvain.be>
 - 🔍 You can visit my gitlab [here](https://gitlab.com/nicojmn) (mainly for Louvain-li-Nux stuff)
@@ -15,7 +15,7 @@ open-source software and a member of [Louvain-li-Nux](https://louvainlinux.org).
 ## Projects
 
 - [edur-home](https://github.com/OpenWeek/edur-home) : Easily deploy an `eduroam` connection at your place and use your institutional credentials to log in.
-
+- [homelab](https://github.com/nicojmn/homelab) : ongoing homelab setup for my own services and stuff
 ## Random projects
 
 - [Git muzak for linux](https://github.com/nicojmn/git-muzak-linux) : A simple script to share your music on your commits
