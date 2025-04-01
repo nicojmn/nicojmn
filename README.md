@@ -16,11 +16,17 @@ open-source software and a member of [Louvain-li-Nux](https://louvainlinux.org).
 
 - [edur-home](https://github.com/OpenWeek/edur-home) : Easily deploy an `eduroam` connection at your place and use your institutional credentials to log in.
 - [homelab](https://github.com/nicojmn/homelab) : ongoing homelab setup for my own services and stuff
+  
 ## Random projects
 
 - [Git muzak for linux](https://github.com/nicojmn/git-muzak-linux) : A simple script to share your music on your commits
 - [Akapella buzzer](https://github.com/nicojmn/buzzer) : A go/svelte webapp to use as a buzzer for the Kot-à-projet Akapella
 - [Quinzaine ranker](https://github.com/nicojmn/quinzaine-ranker) : Python script to rank beers for the "Quinzaine de la bière belge" at Louvain-la-Neuve
+- [Posix and spinlock multithreading *(uni course)*](https://github.com/nicojmn/LINFO1252_multithread_project): Multithreading in C with POSIX and spinlocks
+- [Tar project *(uni course)*](https://github.com/nicojmn/LINFO1252_tar_project) : tar analysis and extraction in C
+- [K-means clustering *(uni course)*](https://github.com/nicojmn/LEPL1503-projet-3) : K-means clustering (Lloyd's algorithm) implementation in multithreaded C
+- [Optimizing a heat pump *(uni course)*](https://github.com/nicojmn/LINMA1702-project) : Linear and non-linear optimization of a heat pump
+- [Nutriwatch *(uni course)*](https://github.com/nicojmn/Nutriwatch) : Android app to track your meals and get a nutritional analysis
 
 ## My GitHub stats
 
