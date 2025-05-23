@@ -36,3 +36,6 @@ open-source software and a member of [Louvain-li-Nux](https://louvainlinux.org).
 <a href="#">
 <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicojmn&layout=compact&langs_count=6&hide=jupyter%20notebook,tex,makefile&size_weight=0.5&count_weight=0.5" />
 </a>
+<a href="#">
+<img align="center" height="200em" src="https://streak-stats.demolab.com?user=nicojmn" />
+</a>
