@@ -9,7 +9,7 @@ open-source software and a member of [Louvain-li-Nux](https://louvainlinux.org).
 - 💻 I'm working on multiple projects at the same time
 - 🌱 I'm currently learning about several cool stuff like devOps / building a [homelab](https://github.com/nicojmn/homelab), cryptography and go
 - 💬 Ask me anything about my favorite subjects or other as well, I love learning new things !
-- 📫 You can reach me by putting an issue / PR or at <nicolas.jeanmenne@student.uclouvain.be>
+- 📫 You can reach me by putting an issue / PR or at <contact@nicojmn.be>
 - 🔍 You can visit my gitlab [here](https://gitlab.com/nicojmn) (mainly for Louvain-li-Nux stuff)
 
 ## Projects
