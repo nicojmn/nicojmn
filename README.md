@@ -6,7 +6,7 @@ open-source software and a member of [Louvain-li-Nux](https://louvainlinux.org).
 
 ## About me
 
-- 💻 I'm working on multiple projects at the same time
+- 💻 I'm juggling on a bunch of cool stuff and like to work on several projects at the same time
 - 🌱 I'm currently learning about several cool stuff like devOps / building a [homelab](https://github.com/nicojmn/homelab), cryptography and go
 - 💬 Ask me anything about my favorite subjects or other as well, I love learning new things !
 - 📫 You can reach me by putting an issue / PR or at <contact@nicojmn.be>
@@ -19,14 +19,16 @@ open-source software and a member of [Louvain-li-Nux](https://louvainlinux.org).
   
 ## Random projects
 
+- [govh-renew-ip](https://github.com/nicojmn/govh-renew-ip) : Update your OVH DNS records when your public IP change
+- [Network attacks and defenses *(uni course)*](https://github.com/nicojmn/LINFO2347-project-2) : simulations of well-know attacks on mininet
 - [Git muzak for linux](https://github.com/nicojmn/git-muzak-linux) : A simple script to share your music on your commits
 - [Akapella buzzer](https://github.com/nicojmn/buzzer) : A go/svelte webapp to use as a buzzer for the Kot-à-projet Akapella
 - [Quinzaine ranker](https://github.com/nicojmn/quinzaine-ranker) : Python script to rank beers for the "Quinzaine de la bière belge" at Louvain-la-Neuve
 - [Posix and spinlock multithreading *(uni course)*](https://github.com/nicojmn/LINFO1252_multithread_project): Multithreading in C with POSIX and spinlocks
 - [Tar project *(uni course)*](https://github.com/nicojmn/LINFO1252_tar_project) : tar analysis and extraction in C
-- [K-means clustering *(uni course)*](https://github.com/nicojmn/LEPL1503-projet-3) : K-means clustering (Lloyd's algorithm) implementation in multithreaded C
 - [Optimizing a heat pump *(uni course)*](https://github.com/nicojmn/LINMA1702-project) : Linear and non-linear optimization of a heat pump
 - [Nutriwatch *(uni course)*](https://github.com/nicojmn/Nutriwatch) : Android app to track your meals and get a nutritional analysis
+- [K-means clustering *(uni course)*](https://github.com/nicojmn/LEPL1503-projet-3) : K-means clustering (Lloyd's algorithm) implementation in multithreaded C
 
 ## My GitHub stats
 
