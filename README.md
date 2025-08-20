@@ -7,7 +7,7 @@ open-source software and a member of [Louvain-li-Nux](https://louvainlinux.org).
 ## About me
 
 - 💻 I'm juggling on a bunch of cool stuff and like to work on several projects at the same time
-- 🌱 I'm currently learning about several cool stuff like devOps / building a [homelab](https://github.com/nicojmn/homelab), cryptography and go
+- 🌱 I'm currently learning about several cool stuff like devOps / building a [homelab](https://github.com/nicojmn/homelab), cryptography, go and Rust !
 - 💬 Ask me anything about my favorite subjects or other as well, I love learning new things !
 - 📫 You can reach me by putting an issue / PR or at <contact@nicojmn.be>
 - 🔍 You can visit my gitlab [here](https://gitlab.com/nicojmn) (mainly for Louvain-li-Nux stuff)
